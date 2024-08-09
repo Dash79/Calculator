@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.target=Calculator
+comment0.text=\r\n\ Header\r\n\ This\ is\ a\ simple\ calculator\ that\ performs\ functions\ based\ on\ the\ given\ assignment\ prompt\r\n\ @author\ Dawit\ Ashenafi\ Getachew\r\n\ @version\ Version1\r\n\ @date\ 12-02-2024\r\n
+comment1.params=primaryStage
+comment1.target=void\ start(javafx.stage.Stage)
+comment2.params=text
+comment2.target=void\ appendToInputDisplay(java.lang.String)
+comment3.params=
+comment3.target=void\ clearDisplays()
+comment4.params=
+comment4.target=void\ calculateResult()
+comment5.params=
+comment5.target=void\ playButtonClickSound()
+numComments=6
